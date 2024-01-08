@@ -1,0 +1,31 @@
+Subject ID,Dosage (μg),Treatment,Type,Block
+81001,125,Placebo,Sentinel,1
+81002,125,PT00114,Sentinel,1
+81003,125,PT00114,Not Sentinel,1
+81004,125,PT00114,Not Sentinel,1
+81005,125,Placebo,Not Sentinel,1
+81006,125,PT00114,Not Sentinel,1
+81007,250,PT00114,Sentinel,2
+81008,250,Placebo,Sentinel,2
+81009,250,PT00114,Not Sentinel,2
+81010,250,Placebo,Not Sentinel,2
+81011,250,PT00114,Not Sentinel,2
+81012,250,PT00114,Not Sentinel,2
+81013,500,PT00114,Sentinel,3
+81014,500,Placebo,Sentinel,3
+81015,500,PT00114,Not Sentinel,3
+81016,500,PT00114,Not Sentinel,3
+81017,500,Placebo,Not Sentinel,3
+81018,500,PT00114,Not Sentinel,3
+81019,750,PT00114,Sentinel,4
+81020,750,Placebo,Sentinel,4
+81021,750,PT00114,Not Sentinel,4
+81022,750,PT00114,Not Sentinel,4
+81023,750,Placebo,Not Sentinel,4
+81024,750,PT00114,Not Sentinel,4
+81025,1000,Placebo,Sentinel,5
+81026,1000,PT00114,Sentinel,5
+81027,1000,Placebo,Not Sentinel,5
+81028,1000,PT00114,Not Sentinel,5
+81029,1000,PT00114,Not Sentinel,5
+81030,1000,PT00114,Not Sentinel,5
